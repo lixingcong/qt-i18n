@@ -48,6 +48,7 @@ set(TS_FILES
     i18n_es.ts
     i18n_eu.ts
     i18n_gl.ts
+    i18n_zh_CN.ts
 )
 
 if (QT_VERSION VERSION_LESS 5.15.0)

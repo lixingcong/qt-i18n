@@ -38,7 +38,8 @@ TRANSLATIONS += \
     i18n_ca.ts \
     i18n_es.ts \
     i18n_eu.ts \
-    i18n_gl.ts
+    i18n_gl.ts \
+    i18n_zh_CN.ts
 
 LCONVERT_LANGS=es ca gl eu
 include(lconvert.pri)
